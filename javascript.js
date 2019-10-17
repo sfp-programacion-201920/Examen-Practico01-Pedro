@@ -1,0 +1,1 @@
+window.open(URL,Bienbenido,forma_de_la_ventana)
